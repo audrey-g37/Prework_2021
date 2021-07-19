@@ -1,0 +1,12 @@
+.center{text-align: center}
+.fun{background-color: aquamarine; color:blueviolet}
+.one{color: red}
+.two{color:blue}
+.three{color:green}
+.large{font-size: x-large}
+.tiny{font-size:x-small}
+.bold{font-weight:bold}
+.sans{font-family:sans-serif}
+.trio{color:orange;font-size:30px;font-weight:bold}
+.styledFont{color:magenta; font-family:cursive}
+#styledImage{border:10px dashed;border-color: mediumslateblue}
